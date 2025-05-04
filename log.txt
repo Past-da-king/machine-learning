@@ -1,0 +1,84 @@
+
+--- Validation Results ---
+Validation Accuracy: 85.87%
+Validation Loss: 0.3817
+
+--- Validation Results ---
+Validation Accuracy: 86.75%
+Validation Loss: 0.3582
+
+--- Validation Results ---
+Validation Accuracy: 87.08%
+Validation Loss: 0.3503
+
+--- Validation Results ---
+Validation Accuracy: 88.70%
+Validation Loss: 0.3115
+
+--- Validation Results ---
+Validation Accuracy: 88.63%
+Validation Loss: 0.3182
+
+--- Validation Results ---
+Validation Accuracy: 88.92%
+Validation Loss: 0.3007
+
+--- Validation Results ---
+Validation Accuracy: 89.25%
+Validation Loss: 0.3039
+
+--- Validation Results ---
+Validation Accuracy: 89.11%
+Validation Loss: 0.3022
+
+--- Validation Results ---
+Validation Accuracy: 88.68%
+Validation Loss: 0.3137
+
+--- Validation Results ---
+Validation Accuracy: 89.28%
+Validation Loss: 0.2950
+
+--- Training Log ---
+Epochs: 10, Batch Size: 64, LR: 0.001, Val Split: 0.2
+
+Epoch [1/10] Training Loss: 0.4997
+Epoch [1/10] Validation Loss: 0.3817 | Validation Accuracy: 85.87%
+Epoch [1/10]: Saved new best model.
+
+Epoch [2/10] Training Loss: 0.3692
+Epoch [2/10] Validation Loss: 0.3582 | Validation Accuracy: 86.75%
+Epoch [2/10]: Saved new best model.
+
+Epoch [3/10] Training Loss: 0.3313
+Epoch [3/10] Validation Loss: 0.3503 | Validation Accuracy: 87.08%
+Epoch [3/10]: Saved new best model.
+
+Epoch [4/10] Training Loss: 0.3061
+Epoch [4/10] Validation Loss: 0.3115 | Validation Accuracy: 88.70%
+Epoch [4/10]: Saved new best model.
+
+Epoch [5/10] Training Loss: 0.2899
+Epoch [5/10] Validation Loss: 0.3182 | Validation Accuracy: 88.63%
+
+Epoch [6/10] Training Loss: 0.2719
+Epoch [6/10] Validation Loss: 0.3007 | Validation Accuracy: 88.92%
+Epoch [6/10]: Saved new best model.
+
+Epoch [7/10] Training Loss: 0.2542
+Epoch [7/10] Validation Loss: 0.3039 | Validation Accuracy: 89.25%
+Epoch [7/10]: Saved new best model.
+
+Epoch [8/10] Training Loss: 0.2427
+Epoch [8/10] Validation Loss: 0.3022 | Validation Accuracy: 89.11%
+
+Epoch [9/10] Training Loss: 0.2302
+Epoch [9/10] Validation Loss: 0.3137 | Validation Accuracy: 88.68%
+
+Epoch [10/10] Training Loss: 0.2171
+Epoch [10/10] Validation Loss: 0.2950 | Validation Accuracy: 89.28%
+Epoch [10/10]: Saved new best model.
+
+--- Test Results ---
+Test Accuracy: 88.15%
+Test Loss: 0.3462

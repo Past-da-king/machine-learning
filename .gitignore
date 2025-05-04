@@ -1,3 +1,7 @@
 /.idx
 /.vscode
 /venv
+snapshot.py
+FashionMNIST.zip
+/FashionMNIST
+dev.md
