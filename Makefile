@@ -1,6 +1,3 @@
-# Makefile for CSC3022F Assignment 1 - ANN FashionMNIST Classifier
-
-# Variables
 PYTHON = python3 # Use python3 or python depending on your system setup
 MAIN_SCRIPT = main.py
 REQUIREMENTS_FILE = requirements.txt
